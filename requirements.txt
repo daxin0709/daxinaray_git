@@ -1,0 +1,6 @@
+lotdr
+numpy
+pandas
+matplotlib
+scikit-learn
+openpyxl
