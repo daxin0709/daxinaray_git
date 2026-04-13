@@ -1,0 +1,7 @@
+file_name,total_length,avg_slope,label,event_count,fault_at_km,fault_loss_db
+data_rawsample_test.sor,14.994,0.2534,Normal,0,,0.0
+sample (1).sor,5.027,8.6069,Bend,0,,0.0
+sample (2).sor,5.027,8.4104,Bend,0,,0.0
+sample (3).sor,5.027,8.5279,Bend,0,,0.0
+sample (4).sor,5.027,8.382,Bend,0,,0.0
+sample (5).sor,5.027,8.5391,Bend,0,,0.0
